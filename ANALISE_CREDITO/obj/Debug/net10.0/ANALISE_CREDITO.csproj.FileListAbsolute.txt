@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\ANALISE_CREDITO\bin\Debug\net10.0\ANALISE_CREDITO.exe
+C:\Users\User\Downloads\ANALISE_CREDITO\bin\Debug\net10.0\ANALISE_CREDITO.deps.json
+C:\Users\User\Downloads\ANALISE_CREDITO\bin\Debug\net10.0\ANALISE_CREDITO.runtimeconfig.json
+C:\Users\User\Downloads\ANALISE_CREDITO\bin\Debug\net10.0\ANALISE_CREDITO.dll
+C:\Users\User\Downloads\ANALISE_CREDITO\bin\Debug\net10.0\ANALISE_CREDITO.pdb
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ANALISE_CREDITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ANALISE_CREDITO.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ANALISE_CREDITO.AssemblyInfo.cs
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ANALISE_CREDITO.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ANALISE_CREDITO.dll
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\refint\ANALISE_CREDITO.dll
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ANALISE_CREDITO.pdb
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ANALISE_CREDITO.genruntimeconfig.cache
+C:\Users\User\Downloads\ANALISE_CREDITO\obj\Debug\net10.0\ref\ANALISE_CREDITO.dll
